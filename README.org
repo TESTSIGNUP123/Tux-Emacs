@@ -10,7 +10,7 @@
 	python依赖  pip install jedi pylint 
 	icon-fonts依赖：M-x all-the-icons-install-fonts
 	c语言依赖：clang
-    
+    TabNice : M-x package-install RET company-tabnine RET
 *** DONE Key-mode
 	F2 打开（.emacs.d/init.el）
 	F11全屏
