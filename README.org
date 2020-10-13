@@ -22,5 +22,15 @@
 	org-mode：Ctrl-c t org笔记模式
 	(org-mode 模式码代码)： <s tab
 	
-***** DONE PS 
+**** DONE Exwm
+		Exwm-Desktop 如何使用
+		1.首先在/usr/share/xsessions  创建个exwm.desktop 下列是这文件的配置
+	[Desktop Entry]
+	Encoding=UTF-8
+	Name=EXWM
+	Comment=emacs
+	Exec=emacs
+	Icon=EXWM
+	Type=XSession
+****** DONE PS 
     备注：mode。配置文件模块化了
