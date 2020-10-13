@@ -1,6 +1,10 @@
-* DONE PS
-	这是最新的配置，由于老仓库没法remove 导致重新整个new仓库
-	本次优化了一些配置.其次主要注重于补全 （company+lsp+TabNine）
+* DONE 科普及更新事项
+	1.Emacs，著名的集成开发环境和文本编辑器。Emacs被公认为是最受专业程序员喜爱的代码编辑器之一，另外一个vim。
+		EMACS，即Editor MACroS（编辑器宏）的缩写，最初由Richard Stallman(理查德·马修·斯托曼)于1975年在MIT协同Guy Steele共同完成。这一创意的灵感来源于TECMAC和TMACS，它们是由Guy Steele、Dave Moon、Richard Greenblatt、Charles Frankston等人编写的宏文本编辑器。
+			自诞生以来，Emacs演化出了众多分支，其中使用最广泛的两种是：1984年由Richard Stallman发起并由他维护至今的GNU Emacs，以及1991年发起的XEmacs。XEmacs是GNU Emacs的分支，至今仍保持着相当的兼容性。
+				Emacs使用Emacs Lisp，这种有着极强扩展性的编程语言，从而实现了包括编程、编译乃至网络浏览等等功能的扩展
+	2.这是最新的配置，由于老仓库没法remove 导致重新整个new仓库
+		本次优化了一些配置.其次主要注重于补全 （company+lsp+TabNine）
 ** DONE Install
 安装方式
 1. git clone https://github.com/TESTSIGNUP123/New_Emacs_Config  
