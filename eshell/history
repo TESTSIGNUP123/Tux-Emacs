@@ -1,9 +1,0 @@
-emacs -v
-emacs --version
-neofetch 
-emacs -nw
-cshell
-xterm
-xterm db.sqlite3 
-emacs -v
-sudo pacman -Ss monaco
