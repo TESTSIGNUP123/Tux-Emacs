@@ -2,7 +2,9 @@
 	这是最新的配置，由于老仓库没法remove 导致重新整个new仓库
 	本次优化了一些配置.其次主要注重于补全 （company+lsp+TabNine）
 ** DONE Install
-安装方式：git clone https://github.com/TESTSIGNUP123/New_Emacs_Config && mv Emacs-Config  /home/用户/.emacs.d 
+安装方式
+1. git clone https://github.com/TESTSIGNUP123/New_Emacs_Config  
+2. mv New_Emacs_Config  /home/用户/.emacs.d 
 
 ** DONE EmacsCode
 	python依赖  pip install jedi pylint 
