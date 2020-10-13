@@ -1,0 +1,24 @@
+* DONE PS
+	这是最新的配置，由于老仓库没法remove 导致重新整个new仓库
+	本次优化了一些配置.其次主要注重于补全 （company+lsp+TabNine）
+** DONE Install
+安装方式：git clone https://github.com/TESTSIGNUP123/New_Emacs_Config && mv Emacs-Config  /home/用户/.emacs.d 
+
+** DONE EmacsCode
+	python依赖  pip install jedi pylint 
+	icon-fonts依赖：M-x all-the-icons-install-fonts
+	c语言依赖：clang
+    
+*** DONE Key-mode
+	F2 打开（.emacs.d/init.el）
+	F11全屏
+	Alt-x（helm代替原始的mode查找（吐槽一下，默认的管理很差））
+	Ctrl-x Ctrl-f (更加直观的查文件)
+
+**** DONE Org-Mode
+	Org-mode写笔记（我已经沉迷org-mode大法了，这也是我为啥沉迷Emacs的原因）
+	org-mode：Ctrl-c t org笔记模式
+	(org-mode 模式码代码)： <s tab
+	
+***** DONE PS 
+    备注：mode。配置文件模块化了

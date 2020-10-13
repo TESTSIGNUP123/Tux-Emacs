@@ -1,0 +1,5 @@
+(require 'exwm)
+(require 'exwm-config)
+(exwm-config-default)
+(setq exwmx-button-floating-button-line 'mode-line)
+(provide 'init-exwm)
